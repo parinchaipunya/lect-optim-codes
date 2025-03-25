@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!*.ipynb
+!pyscipopt/
+
+pyscipopt/in-class/
+
