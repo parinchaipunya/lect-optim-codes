@@ -1,8 +1,8 @@
 *
 
 !.gitignore
-!*.tex
 !*.ipynb
+!*.tex
 !pyscipopt/
 
 pyscipopt/in-class/
