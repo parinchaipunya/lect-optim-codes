@@ -3,6 +3,8 @@
 !.gitignore
 !*.tex
 !*.ipynb
-!/pyscipopt/
+!pyscipopt/
+!pyscipopt/*
 
+pyscipopt/.ipynb_checkpoints/
 pyscipopt/in-class/
