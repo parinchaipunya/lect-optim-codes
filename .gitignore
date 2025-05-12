@@ -3,6 +3,6 @@
 !.gitignore
 !*.tex
 !*.ipynb
-!pyscipopt/
+!/pyscipopt/
 
 pyscipopt/in-class/
